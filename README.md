@@ -35,10 +35,3 @@ I'm a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
-### My Stats :
-
-<img src="https://github-readme-stats.vercel.app/api?username=AndreySavchenkov&theme=react&show_icons=true&hide_border=true&count_private=true" alt="AndreySavchenkov's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySavchenkov&theme=react&show_icons=true&hide_border=true&layout=compact" alt="AndreySavchenkov's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreySavchenkov&theme=react&hide_border=true" alt="AndreySavchenkov's GitHub Stats" />
