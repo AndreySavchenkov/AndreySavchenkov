@@ -20,9 +20,3 @@
 
 I'm a Frontend Developer who moved from Belarus to Poznań, Poland. I build with JavaScript, TypeScript, React, Next.js and Node.js, and I'm increasingly working with AI-powered tools and workflows. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-### GitHub Stats :
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreySavchenkov&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySavchenkov&layout=compact&theme=tokyonight"/>
-</div>
